@@ -1,2 +1,2 @@
 # referencer
-git commit message editor to allow inline lookups of Redmine issues
+Allow inline lookup of Redmine issues for inclusion in git commit messages Edit
